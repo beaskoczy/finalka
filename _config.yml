@@ -1,8 +1,12 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: "Guide to GitHub Pages Publishing"
+description: Documentation project containing guides on publishing from Just-the-Docs Jekyll theme, MadCap Flare, and oXygen XML.
 theme: just-the-docs
 
 url: https://just-the-docs.github.io
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Project Repository: https://github.com/beaskoczy/githubpages-publication
+
+color_scheme: dark
+
+heading_anchors: true
